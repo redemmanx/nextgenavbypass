@@ -1,6 +1,7 @@
 # nextgenavbypass
 
 DEMO/METHOD: https://www.youtube.com/watch?v=MPKOps0Ayxo
+
 TITLE: Using Metasploit to bypass a NextGenAV product and implant and execute a Ransomware
 
 Methods and Tools are described in the video:
